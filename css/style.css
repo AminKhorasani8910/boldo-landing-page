@@ -1,22 +1,22 @@
 @font-face {
   font-family: "Manrope-Bold";
-  src: url(/fonts/Manrope/static/Manrope-Bold.ttf) format("truetype");
+  src: url("../fonts/Manrope/static/Manrope-Bold.ttf") format("truetype");
 }
 @font-face {
   font-family: "Manrope-Regular";
-  src: url(/fonts/Manrope/static/Manrope-Regular.ttf) format("truetype");
+  src: url("../fonts/Manrope/static/Manrope-Regular.ttf") format("truetype");
 }
 @font-face {
   font-family: "OpenSans-SemiBold";
-  src: url(/fonts/Open_Sans/static/OpenSans-SemiBold.ttf) format("truetype");
+  src: url("../fonts/Open_Sans/static/OpenSans-SemiBold.ttf") format("truetype");
 }
 @font-face {
   font-family: "OpenSans-Bold";
-  src: url(/fonts/Open_Sans/static/OpenSans-Bold.ttf) format("truetype");
+  src: url("../fonts/Open_Sans/static/OpenSans-Bold.ttf") format("truetype");
 }
 @font-face {
   font-family: "OpenSans-Regular";
-  src: url(/fonts/Open_Sans/static/OpenSans-Regular.ttf) format("truetype");
+  src: url("../fonts/Open_Sans/static/OpenSans-Regular.ttf") format("truetype");
 }
 /* normalize css */
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
